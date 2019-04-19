@@ -1,0 +1,1 @@
+"./graphics.obj" "./lcd.obj" "./main.obj" "./ports.obj" "./ultrasonic.obj" "../lnk_msp430fr6989.cmd" -llibmath.a -llibc.a 
